@@ -84,6 +84,12 @@
 		<Unit filename="/Users/clikpc/Desktop/C++ porojects/HW6-2/Address.h">
 			<Option target="HW6_2"/>
 		</Unit>
+		<Unit filename="/Users/clikpc/Desktop/C++ porojects/HW6-2/Boss.cpp">
+			<Option target="HW6_2"/>
+		</Unit>
+		<Unit filename="/Users/clikpc/Desktop/C++ porojects/HW6-2/Boss.h">
+			<Option target="HW6_2"/>
+		</Unit>
 		<Unit filename="/Users/clikpc/Desktop/C++ porojects/HW6-2/Employee.cpp">
 			<Option target="HW6_2"/>
 		</Unit>

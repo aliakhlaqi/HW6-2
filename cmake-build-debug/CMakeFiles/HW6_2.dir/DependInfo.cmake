@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/clikpc/Desktop/C++ porojects/HW6-2/Address.cpp" "/Users/clikpc/Desktop/C++ porojects/HW6-2/cmake-build-debug/CMakeFiles/HW6_2.dir/Address.cpp.o"
+  "/Users/clikpc/Desktop/C++ porojects/HW6-2/Boss.cpp" "/Users/clikpc/Desktop/C++ porojects/HW6-2/cmake-build-debug/CMakeFiles/HW6_2.dir/Boss.cpp.o"
   "/Users/clikpc/Desktop/C++ porojects/HW6-2/Employee.cpp" "/Users/clikpc/Desktop/C++ porojects/HW6-2/cmake-build-debug/CMakeFiles/HW6_2.dir/Employee.cpp.o"
   "/Users/clikpc/Desktop/C++ porojects/HW6-2/Person.cpp" "/Users/clikpc/Desktop/C++ porojects/HW6-2/cmake-build-debug/CMakeFiles/HW6_2.dir/Person.cpp.o"
   "/Users/clikpc/Desktop/C++ porojects/HW6-2/main.cpp" "/Users/clikpc/Desktop/C++ porojects/HW6-2/cmake-build-debug/CMakeFiles/HW6_2.dir/main.cpp.o"

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/HW6_2.dir/Address.cpp.o"
+  "CMakeFiles/HW6_2.dir/Boss.cpp.o"
   "CMakeFiles/HW6_2.dir/Employee.cpp.o"
   "CMakeFiles/HW6_2.dir/Person.cpp.o"
   "CMakeFiles/HW6_2.dir/main.cpp.o"
