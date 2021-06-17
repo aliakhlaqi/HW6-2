@@ -25,3 +25,18 @@ ostream &operator<<(ostream &os, const Boss &boss) {
     os << static_cast<const Employee &>(boss) << " number Of Employees is:\t" << boss.numberOfEmployees;
     return os;
 }
+istream &operator>>(istream &in, Boss &b) {
+    cout << "Number of employee is : \n";
+    in >> b.numberOfEmployees >> static_cast< Employee &>(b);
+    return in;
+}
+
+Boss &Boss::operator=(const Boss &boss) {
+    numberOfEmployees = boss.numberOfEmployees;
+    Employee::operator=(boss);
+    return *this;
+}
+
+double Boss::calculateSalary() const {
+    return Employee::calculateSalary() * (1.15);
+}
