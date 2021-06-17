@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Address.h
+iostream
+-
+
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Boss.h
+Employee.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Employee.h
+iostream
+-
+
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Company.h
+Boss.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Boss.h
+Employee.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Employee.h
+iostream
+-
+fstream
+-
+
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Employee.h
+Person.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Person.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Person.h
+iostream
+-
+Address.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Address.h
+
+/Users/clikpc/Desktop/C++ porojects/HW6-2/main.cpp
+iostream
+-
+Address.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Address.h
+Company.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Company.h
+Boss.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Boss.h
+Person.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Person.h
+Employee.h
+/Users/clikpc/Desktop/C++ porojects/HW6-2/Employee.h
+
